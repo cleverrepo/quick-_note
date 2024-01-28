@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDFAnJJyrH8X5QC5DAu6Rc2iBiPulNibNY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>753410203184</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.quicknote</string>
+	<key>PROJECT_ID</key>
+	<string>cloudnote-9c1a3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cloudnote-9c1a3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:753410203184:ios:b7762d23635a6baa0397f5</string>
+</dict>
+</plist>
